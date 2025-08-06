@@ -15,11 +15,21 @@
 - CSVプレビュー→印刷支援用のVBS/BATスクリプトも同梱
 
 ## 📁 フォルダ構成
-
-## 📁 フォルダ構成
-
-
-
+bento_order_system/
+├── main.py # メイン処理ファイル
+├── utils.py # 補助関数
+├── CSV/
+│ ├── uriage010_nemu.csv # メニューマスター
+│ ├── uriage020_hibi.csv # 社員マスター（注文入力）
+│ ├── uriage030_ruiseki.csv # 注文履歴（累積）
+│ ├── FAX_Order_Summary_1.csv # FAX用注文CSV（業者11）
+│ ├── FAX_Order_Summary_2.csv # FAX用注文CSV（業者22）
+├── Excel_Template/
+│ ├── FAX_Order_Summary_11.xlsx # FAX注文票（業者11用）
+│ ├── FAX_Order_Summary_22.xlsx # FAX注文票（業者22用）
+├── Scripts/
+│ ├── 010_hiraku3.vbe # CSVを開くVBSスクリプト
+│ ├── 020_tojiru.vbe # CSVを閉じるVBSスクリプト
 
 ## 🔧 使用方法（概要）
 
