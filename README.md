@@ -53,7 +53,7 @@ bento_order_system/
 
 ご質問やご意見は以下のメールアドレスまでご連絡ください。
 
-[お問い合わせはこちら](mailto:mappi0927@gmail.com)
+**メールアドレス:** mappi0927@gmail.com
 
 ---
 
