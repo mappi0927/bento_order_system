@@ -37,7 +37,7 @@ bento_order_system/
 1. `uriage020_hibi.csv` に注文データ（コード・個数）を入力  
 2. Pythonスクリプトを実行して、当日注文一覧やFAX注文CSVを生成  
 3. CSVはExcelテンプレートと連携し、プレビュー後に印刷
-　　　[![Excel注文票](docs/050.png)](docs/050.png)
+　　　[CSVプレビューを見る](docs/050.png)
 4. 日次の注文は累積記録され、月末に集計・精算処理を実施
 
 ## 💡 想定利用者
